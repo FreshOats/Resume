@@ -1,0 +1,114 @@
+Skill,Start Year,End Year,Years
+Data Analysis,2000,2025,26
+R ,2014,2020,7
+R ,2023,2024,2
+MATLAB,2003,2008,6
+MATLAB,2012,2014,3
+LabVIEW,2002,2003,2
+LabVIEW,2012,2014,3
+Teradata,2019,2020,2
+MySQL,2019,2020,2
+Postgres,2022,2025,4
+tSQL ,2023,2025,3
+Spark SQL,2024,2025,2
+Apache Spark/PySpark,2022,2023,2
+Apache Spark/PySpark,2024,2025,2
+ETL,2022,2025,4
+EDA,2019,2025,7
+Tableau,2022,2025,4
+Power BI,2022,2025,4
+Hypothesis Testing,2010,2025,16
+Applied Statistics,2002,2025,24
+Frequentist Frameworks,2002,2025,24
+Baeysian Frameworks ,2019,2025,7
+PowerPoint,1999,2025,27
+Advanced Excel,2014,2025,12
+VBA,2022,2024,3
+Public Speaking,2003,2025,23
+Stakeholder Management,2012,2025,14
+Teaching,2000,2025,26
+Learning Development,2015,2025,11
+Curriculum Development,2016,2020,5
+Performance Analytics,2015,2022,8
+Behavior Management,2015,2022,8
+Consulting,2019,2025,7
+GitHub,2017,2025,9
+Apache Airflow,2024,2025,2
+Kafka,2024,2025,2
+Flink,2025,2025,1
+DBT,2025,2025,1
+Databricks,2025,2025,1
+Snowflake,2024,2025,2
+Trino,2024,2025,2
+Iceberg,2024,2025,2
+Jira,2020,2022,3
+Trello,2020,2023,4
+Asana,2019,2021,3
+NLP,2018,2020,3
+NLP,2024,2025,2
+APIs,2019,2025,7
+NoSQL - MongoDB,2022,2023,2
+Unstructured Data,2019,2025,7
+AWS S3,2022,2022,1
+AWS S3,2024,2025,2
+Python,2019,2025,7
+Pandas,2019,2025,7
+Polars,2023,2025,3
+Scikit Learn,2020,2025,6
+Numpy,2020,2025,6
+Machine Learning,2017,2025,9
+Regression Analysis,2001,2011,11
+Regression Analysis,2014,2025,12
+Classification,2017,2023,7
+HTML/CSS,2021,2025,5
+JavaScript,2022,2025,4
+Docker ,2024,2025,2
+Data Pipelines,2022,2025,4
+Orchestration,2024,2025,2
+Plotly,2022,2023,2
+A/B Testing,2023,2025,3
+Predictive Modeling,2017,2025,9
+Neural Networks,2002,2003,2
+Neural Networks,2022,2024,3
+Tensor Flow/Keras,2022,2024,3
+Biomedical Engineering,2005,2008,4
+Biomedical Engineering,2009,2014,6
+Research,2000,2008,9
+Research,2009,2014,6
+Technical Writing,2001,2025,25
+Marketing Analytics,2022,2025,4
+Leadship/Management,2005,2007,3
+Leadship/Management,2012,2019,8
+Business Strategy,2015,2022,8
+Collaboration,2003,2025,23
+AI Development & Application,2019,2025,7
+LLM Application,2022,2025,4
+Customer Engagement,2008,2025,18
+Customer Support,2014,2022,9
+Risk Assessment,2020,2022,3
+Process Optimization,2013,2025,13
+Regulatory Compliance,2012,2015,4
+Budget and Resource Management,2012,2013,2
+Budget and Resource Management,2022,2025,4
+Solution-Based Selling,2022,2025,4
+"Innovation, Design, Development",2005,2025,21
+Azure,2022,2025,4
+KPI Tracking & Analysis,2014,2025,12
+Digital Signal Processing,2003,2013,11
+Tissue Engineering,2004,2008,5
+Tissue Engineering,2009,2011,3
+Tissue Engineering,2012,2014,3
+Biophysics,2009,2011,3
+Biophysics,2014,2014,1
+Biophysics,2000,2000,1
+Biochemistry,2000,2000,1
+Biochemistry,2009,2014,6
+Quantitative Analysis,2000,2025,26
+Jupyter,2017,2025,9
+Piano,1988,2025,38
+Trumpet,1991,2003,13
+Guitar,1996,2025,30
+Australian Football,2012,2025,14
+Qualitative Analysis,2013,2025,13
+Officiant,2018,2025,8
+Project Management,2014,2023,10
